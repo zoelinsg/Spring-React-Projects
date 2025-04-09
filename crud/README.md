@@ -1,6 +1,6 @@
-# 使用者 CRUD 系統（Spring Boot + React）
+# Spring Boot + React CRUD Project
 - 以 **Spring Boot** 為後端、**React** 為前端，整合 **MySQL** 資料庫的全端應用，實作使用者資料的新增、查詢、修改與刪除功能。
-- 教學參考：[YouTube 教學連結](https://www.youtube.com/playlist?list=PL1oBBulPlvs84AmRmT-_3dGz4KHYuINsj)
+- [YouTube 教學連結](https://www.youtube.com/playlist?list=PL1oBBulPlvs84AmRmT-_3dGz4KHYuINsj)
 
 ## 🔧 功能簡介
 - 新增 / 編輯 / 刪除使用者
